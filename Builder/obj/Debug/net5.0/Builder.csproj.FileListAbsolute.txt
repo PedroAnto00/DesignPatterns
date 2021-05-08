@@ -1,0 +1,16 @@
+C:\ust-experience\DesignPatterns\Builder\bin\Debug\net5.0\Builder.exe
+C:\ust-experience\DesignPatterns\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\ust-experience\DesignPatterns\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\ust-experience\DesignPatterns\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\ust-experience\DesignPatterns\Builder\bin\Debug\net5.0\Builder.dll
+C:\ust-experience\DesignPatterns\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\ust-experience\DesignPatterns\Builder\bin\Debug\net5.0\Builder.pdb
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\Builder.dll
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\Builder.pdb
+C:\ust-experience\DesignPatterns\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
